@@ -1,4 +1,4 @@
-# pisi
+# Pisi
 Pisi - Sprite Helper
 
 # Usage
@@ -13,3 +13,6 @@ $ ruby pisi.rb
 * Png builds
 * Support for retina displays
 * Naming compatible with Spritesmith 4
+
+# License
+Licensed under the MIT license.
