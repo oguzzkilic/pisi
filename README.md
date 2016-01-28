@@ -10,7 +10,7 @@ All you need to do is to drag and drop the exported images to the related worksp
 ```sh
 $ ruby pisi.rb
 ```
-* layer names must start with "sprite" prefix
+* Layer names must start with "sprite" prefix
 * Example: sprite-icon-fb => icon-fb.png & icon-fb@2x.png
 
 # Features
